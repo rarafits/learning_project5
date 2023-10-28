@@ -1,10 +1,11 @@
 # learning_project5
-This repository is about data visualization in Python
+This repository is about data visualization in Python.
+
 I have been working on an assignment related to data visualization in Python, specifically utilizing the seaborn (sns) and matplotlib.pyplot libraries. These libraries are fundamental in the field of data visualization and play a crucial role in creating informative and visually appealing graphical representations of data. Let's delve into more details about these libraries and their significance in data visualization.
 
 1. Seaborn (sns)
 What is Seaborn?
-Seaborn is a data visualization library in Python that is built on top of Matplotlib. It provides a high-level interface for creating informative and attractive                    statistical graphics.
+Seaborn is a data visualization library in Python that is built on top of Matplotlib. It provides a high-level interface for creating informative and attractive statistical graphics.
 Key Features: Seaborn is known for its simplicity and ease of use. It offers a wide range of built-in themes and color palettes to make your plots aesthetically pleasing.
 Seaborn also comes with several functions for visualizing complex relationships in your data, including linear regression models and visualizations for distribution, categorical, and time-series data.
 Use Cases: Seaborn is particularly useful for creating statistical visualizations, such as bar plots, box plots, violin plots, and heatmaps. It's often used in data analysis and machine learning to explore and understand data distributions and relationships.
